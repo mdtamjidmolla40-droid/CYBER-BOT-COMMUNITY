@@ -13,15 +13,15 @@
     "eventDisabled": [
         "join.js"
     ],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "mdtamjidmolla1@gmail.com",
+    "PASSWORD": "tamjid11",
     "OTPKEY": "",
-    "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
+    "BOTNAME": "Tamur Bot⚠️",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100000478146113",
-        "61576520552554",
-        "61550035211214"
+        "61584155191845",
+        "",
+        ""
     ],
     "NDH": [
         "100000478146113"
